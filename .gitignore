@@ -25,3 +25,6 @@ dist-ssr
 
 product.md
 requirement.md
+.env
+.agent/
+.agents/
