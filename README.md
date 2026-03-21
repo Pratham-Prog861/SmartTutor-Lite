@@ -2,7 +2,7 @@
 
 **SmartTutor Lite** is a premium, client-side AI tutoring application designed to help students master their textbooks. By combining local PDF processing with the power of Google's Gemini models, it provides instant, contextually accurate answers to your study questions without ever sending your full documents to a server.
 
-![SmartTutor Banner](public/vite.svg) _-- [WIP: Dashboard Screenshot] --_
+![SmartTutor Banner](public/screenshots/SmartTutor-Lite.png)
 
 ## ✨ Features
 
